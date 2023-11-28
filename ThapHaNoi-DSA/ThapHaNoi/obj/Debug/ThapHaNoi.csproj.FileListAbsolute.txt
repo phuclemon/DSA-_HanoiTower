@@ -1,0 +1,17 @@
+C:\Documents and Settings\Tomy Dragon\My Documents\Visual Studio 2008\Projects\ThapHaNoi\ThapHaNoi\bin\Debug\ThapHaNoi.exe
+C:\Documents and Settings\Tomy Dragon\My Documents\Visual Studio 2008\Projects\ThapHaNoi\ThapHaNoi\bin\Debug\ThapHaNoi.pdb
+C:\Documents and Settings\Tomy Dragon\My Documents\Visual Studio 2008\Projects\ThapHaNoi\ThapHaNoi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tomy Dragon\My Documents\Visual Studio 2008\Projects\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.Properties.Resources.resources
+C:\Documents and Settings\Tomy Dragon\My Documents\Visual Studio 2008\Projects\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.csproj.GenerateResource.Cache
+C:\Documents and Settings\Tomy Dragon\My Documents\Visual Studio 2008\Projects\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.exe
+C:\Documents and Settings\Tomy Dragon\My Documents\Visual Studio 2008\Projects\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.pdb
+C:\Documents and Settings\Tomy Dragon\My Documents\Visual Studio 2008\Projects\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.FormHaNoiTower.resources
+C:\Users\acer\OneDrive\Tài liệu\UEH\Cấu trúc dữ liệu và giải thuật\ThapHaNoi\ThapHaNoi\bin\Debug\ThapHaNoi.exe
+C:\Users\acer\OneDrive\Tài liệu\UEH\Cấu trúc dữ liệu và giải thuật\ThapHaNoi\ThapHaNoi\bin\Debug\ThapHaNoi.pdb
+C:\Users\acer\OneDrive\Tài liệu\UEH\Cấu trúc dữ liệu và giải thuật\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Tài liệu\UEH\Cấu trúc dữ liệu và giải thuật\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.FormHaNoiTower.resources
+C:\Users\acer\OneDrive\Tài liệu\UEH\Cấu trúc dữ liệu và giải thuật\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.Properties.Resources.resources
+C:\Users\acer\OneDrive\Tài liệu\UEH\Cấu trúc dữ liệu và giải thuật\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Tài liệu\UEH\Cấu trúc dữ liệu và giải thuật\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Tài liệu\UEH\Cấu trúc dữ liệu và giải thuật\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.exe
+C:\Users\acer\OneDrive\Tài liệu\UEH\Cấu trúc dữ liệu và giải thuật\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.pdb
